@@ -76,7 +76,6 @@ def main():
     amount = 100_000
     users = list(generate_users(amount=amount))
     validate(users=users, amount=amount)
-    print(len(users))
 
 
 if __name__ == "__main__":
