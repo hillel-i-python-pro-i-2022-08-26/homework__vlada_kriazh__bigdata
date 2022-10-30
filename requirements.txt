@@ -1,0 +1,11 @@
+# for generate fake names
+faker == 15.0.0
+
+# for clear code
+black == 22.8.0
+
+flake8 == 5.0.4
+
+pre-commit == 2.20.0
+
+pyupgrade==3.0.0
